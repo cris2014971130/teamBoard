@@ -7,7 +7,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "Andres Sanchez",
+  "author": "Cristhian Andrés Chamorro Vallejo",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.1",
